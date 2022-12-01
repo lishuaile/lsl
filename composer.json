@@ -1,0 +1,19 @@
+{
+    "name": "lsl/1234",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lsl\\1234\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "李帅乐",
+            "email": "1573760863@qq.com"
+        }
+    ]
+}
